@@ -11,19 +11,7 @@ Project Organization
     ├── LICENSE
     ├── README.md
     ├── bin
-    ├── config
     ├── data
-    │   ├── external
-    │   ├── interim
-    │   ├── processed
-    │   └── raw
     ├── docs
-    ├── notebooks
-    ├── reports
-    │   └── figures
+    ├── results
     └── src
-        ├── data
-        ├── external
-        ├── models
-        ├── tools
-        └── visualization
