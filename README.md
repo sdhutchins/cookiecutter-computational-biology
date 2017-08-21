@@ -1,7 +1,7 @@
 Reproducible Science
 ====================
 
-A boilerplate for reproducible and transparent science with close resemblances to the philosophy of [A Quick Guide to Organizing Computational Biology Projects by William Stafford Noble](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424).
+A boilerplate for reproducible and transparent computational biology projects that mirrors the philosophy of William Stafford Noble's [A Quick Guide to Organizing Computational Biology Projects](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424).
 
 Requirements
 ------------
@@ -9,7 +9,7 @@ Install `cookiecutter` command line: `pip install cookiecutter`
 
 Usage
 -----
-To start a new science project:
+To start a new computational biology project:
 
 `cookiecutter gh:sdhutchins/cookiecutter-reproducible-science`
 
