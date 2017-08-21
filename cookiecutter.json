@@ -1,7 +1,7 @@
 {
-    "full_name": "Mario Krapp",
-    "email": "mariokrapp@gmail.com",
-    "github_username": "mkrapp",
+    "full_name": "Shaurita Hutchins",
+    "email": "shutchins2@umc.edu",
+    "github_username": "sdhutchins",
     "project_name": "Name of your science project",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
     "project_short_description": "A short description of your project",
