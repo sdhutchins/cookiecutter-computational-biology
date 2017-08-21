@@ -1,7 +1,7 @@
 Computational Biology
-====================
+======================
 
-A boilerplate for reproducible and transparent computational biology projects that mirrors the philosophy of William Stafford Noble's [A Quick Guide to Organizing Computational Biology Projects](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424).
+A boilerplate for reproducible computational biology projects that mirrors the ideology of William Stafford Noble's [A Quick Guide to Organizing Computational Biology Projects](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424).
 
 Requirements
 ------------
