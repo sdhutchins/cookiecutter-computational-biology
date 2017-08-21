@@ -11,7 +11,7 @@ Usage
 -----
 To start a new computational biology project:
 
-`cookiecutter gh:sdhutchins/cookiecutter-reproducible-science`
+`cookiecutter gh:sdhutchins/cookiecutter-computational-biology`
 
 License
 -------
