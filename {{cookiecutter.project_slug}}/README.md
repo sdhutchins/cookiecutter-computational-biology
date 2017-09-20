@@ -1,4 +1,4 @@
-{{cookiecutter.project_slug}}
+{{cookiecutter.project_name}}
 ==============================
 
 {{cookiecutter.project_short_description}}
@@ -15,3 +15,6 @@ Project Organization
     ├── docs
     ├── results
     └── src
+
+Project Background
+-------------------

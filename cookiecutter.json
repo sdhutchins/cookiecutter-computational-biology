@@ -2,9 +2,10 @@
     "full_name": "Shaurita Hutchins",
     "email": "shutchins2@umc.edu",
     "github_username": "sdhutchins",
-    "project_name": "Name of your science project",
+    "project_name": "Name of your computational biology project",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
     "project_short_description": "A short description of your project",
+    "project_background": "Provide a long description of the project",
     "release_date": "{% now 'local' %}",
     "version": "0.1.0",
     "_extensions": ["jinja2_time.TimeExtension"]
