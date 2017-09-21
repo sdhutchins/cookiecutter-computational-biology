@@ -81,6 +81,9 @@ target/
 # Pycharm
 .idea
 
+# Visual Studio Code
+.vscode
+
 # TeX/LaTeX
 *.aux
 *.bbl
@@ -90,9 +93,6 @@ target/
 
 # IPython NB Checkpoints
 .ipynb_checkpoints/
-
-# exclude compiled binaries
-bin/
 
 # exclude data from source control by default
 /data/external
