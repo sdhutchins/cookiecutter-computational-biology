@@ -15,6 +15,18 @@ To start a new computational biology project:
 
 `cookiecutter gh:sdhutchins/cookiecutter-computational-biology`
 
+Project Structure
+--------------------
+    .
+    ├── AUTHORS.md
+    ├── LICENSE
+    ├── README.md
+    ├── bin
+    ├── data
+    ├── docs
+    ├── results
+    └── src
+
 License
 -------
 This project is licensed under the terms of the [BSD License](/LICENSE)
